@@ -1,0 +1,2 @@
+Câu lệnh lồng nhau hay còn gọi là truy vấn con là 1 câu truy vấn được lồng trong 1 câu truy vấn khác.Phổ biến nhất trong mệnh đề WHERE. Nó được sử dụng để trả về dữ liệu từ một bảng và dữ liệu này sẽ được sử dụng trong truy vấn chính làm điều kiện để hạn chế dữ liệu được truy xuất.
+![Alt text](image.png)
